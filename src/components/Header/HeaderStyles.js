@@ -44,7 +44,9 @@ export const Div3 = styled.div`
     grid-area: 1 / 4 / 2 / 6;
   }
 `;
-
+export const Span = styled.span`
+  font-size: 2rem;
+`;
 // Navigation Links
 export const NavLink = styled.a`
   font-size: 2rem;
